@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there!
 
 > [!NOTE]
 > I use a GitHub enterprise-managed account for all of my daily work activities.
