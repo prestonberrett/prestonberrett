@@ -12,15 +12,14 @@
 
 ### Introduction
 
-Hello, my name is Preston. Senior software engineer who builds core business applications, owns the cloud and CI/CD pipeline, and mentors developers. This is my README.md file where you can learn more about me.
+Hello, my name is Preston. I'm a senior software engineer who builds core business applications, owns the cloud and CI/CD pipeline, and mentors developers.
 
 ### About Me
 
 - 🏡 Live in Utah, with my wife, and three daughters
-- 👨‍💻 Currently learning  astro.js, python, and AWS architecture.
+- 👨‍💻 Currently deepening my Astro, python, and AWS architecture skills.
 - 🚵‍♂️ In my free time, I enjoy mountain biking, reading, and going to Disney. 
 - ⌨️ I don’t use a keyboard with the QWERTY layout, I switched over to a layout called Colemak Mod-DH.
-- 🖥️ When I am able to I work in the terminal, with a text editor called Neovim.
 
 ### Tech Stack & Tools
 
